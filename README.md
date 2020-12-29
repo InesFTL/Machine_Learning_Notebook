@@ -2,7 +2,7 @@
 # Python Programming Assignments
 
 # Submissions for the Python Programming Assignments
-This respositry contains my solutions for the python versio of the programming assignments for the the [Machine Learning online class](https://www.coursera.org/learn/machine-learning) taught by Professor Andrew Ng. 
+This respositry contains my solutions for the python version of the programming assignments for the the [Machine Learning online class](https://www.coursera.org/learn/machine-learning) taught by Professor Andrew Ng. 
 The original notebooks containing only the questions and the setup can be found here : [Machine Learning Python Assignments](https://github.com/dibgerge/ml-coursera-python-assignments.git)
 
 
